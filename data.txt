@@ -1,4 +1,4 @@
-fotos/MyWebSiteData.jpg| MyWebSiteData| Meu banco de dados para esse site, coloquei ele no github assim o js faz o request ao git para conseguir os dados que aqui são vistos.|git;
+https://static.vecteezy.com/system/resources/previews/002/862/102/original/data-bank-server-vector.jpg| MyWebSiteData| Meu banco de dados para esse site, coloquei ele no github assim o js faz o request ao git para conseguir os dados que aqui são vistos.|git;
 fotos/JoshuaOCR.jpg| JoshuaOCR| Estou tentando criar um OCR, o projeto funciona usando o matchTemplate do opencv, crio varias .jpg de todos as letras do alfabeto com difentes fontes e tamanho assim o opencv vai procurando em outras fotos se nelas estão contidas as letras que estão salvas.| python,git;
 fotos/PygameWindowCreate.jpg| PygameWindowCreate| Como tenho raiva dos criadores de janela do python por exemplo kivy e tkinter fiz um mini projeto pygame que tentasse recriar eles kkkkkk|python,Abandonado,git;
 fotos/McBot22.jpg| McBot22| Um projetinho que está como privado só falo que usa code injection ahahha| python,html/css/js,terminado,git;
