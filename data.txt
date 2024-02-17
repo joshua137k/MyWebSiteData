@@ -1,2 +1,2 @@
 caminho/para/foto1.jpg,Projeto 1,Descrição do Projeto 1,Ação,Aventura;
-caminho/para/foto2.jpg,Projeto 2,Descrição do Projeto 2,Aventura,Estratégia;
+caminho/para/foto2.jpg,Projeto 2,Descrição do Projeto 2,Aventura,Estratégia
