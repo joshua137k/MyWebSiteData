@@ -12,4 +12,4 @@ fotos/Render3DFromScratch.jpg| Render3DFromScratch| primeira tentativa de criar 
 fotos/ZapFuleiroPythonAndFlask.jpg| estava a aprender flask na epoca e descidi fazer meu webZap|python,git,html/css/js,abandonado;
 fotos/GodotOnlinePython.jpg| GodotOnlinePython| Alguns teste usando o autobahn para criar jogos online|python,godot,git,abandonado;
 fotos/Godot-Inventory.jpg| Godot-Inventory| Um template de inventario para godot|godot,git,abandonado;
-fotos/SkyFactory.jpg| SkyFactory| Um game estilo SkyFactory para godot|godot,git,abandonado;
+fotos/SkyFactory.jpg| SkyFactory| Um game estilo SkyFactory para godot|godot,git,abandonado
