@@ -1,2 +1,2 @@
 caminho/para/foto1.jpg,Hackei a Universidade ,Falando coisas sobre a vida ,Ação,Aventura;
-caminho/para/foto2.jpg,Fiz um whatsapp com html e css,Descrição do Projeto 2,HTML/CSS/JS
+caminho/para/foto2.jpg,Fiz um whatsapp com html e css,Descrição do Projeto 2,html/css/js
