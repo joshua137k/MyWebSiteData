@@ -9,7 +9,7 @@ fotos/McBot.jpg|McBot| versão antiga do McBot22 fiz um macro para tentar pegar 
 fotos/WorldMMO.jpg|WorldMMO| Uma pequena aprendizagem de fazer servidores usando fastapi o projeto até que funcionou legal fiz um mini jogo para colocar junto com o projeto.|python,godot,git,abandonado;
 fotos/MyMMO.jpg|MyMMO| seguimento do WorldMMO tentei criar um rpg ficou até que legalzinho mas desanimei e abandonei. Mas aqui usei autobahn|python,godot,git,abandonado;
 fotos/Render3DFromScratch.jpg| Render3DFromScratch| primeira tentativa de criar um render3d, ainda não tinha noções de algebra|c++,python,git;
-fotos/ZapFuleiroPythonAndFlask.jpg| estava a aprender flask na epoca e descidi fazer meu webZap|python,git,html/css/js,abandonado;
+fotos/ZapFuleiroPythonAndFlask.jpg|ZapFuleiroPythonAndFlask |estava a aprender flask na epoca e descidi fazer meu webZap|python,git,html/css/js,abandonado;
 fotos/GodotOnlinePython.jpg| GodotOnlinePython| Alguns teste usando o autobahn para criar jogos online|python,godot,git,abandonado;
 fotos/Godot-Inventory.jpg| Godot-Inventory| Um template de inventario para godot|godot,git,abandonado;
 fotos/SkyFactory.jpg| SkyFactory| Um game estilo SkyFactory para godot|godot,git,abandonado
